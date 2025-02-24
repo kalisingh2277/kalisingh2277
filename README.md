@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science<br>Machine Learning<br>Communication
+I am a Computer Science student at VIT-AP with a strong foundation in Python, C, C++, Java, and Solidity. My expertise lies in data science, AI/ML, and web development, with hands-on experience in projects like cryptocurrency prediction, sentiment analysis, and food recipe recommendation. I have actively participated in hackathons, showcasing my problem-solving and analytical skills. Additionally, my experience in frontend development (React, TypeScript) and backend/API integration allows me to build scalable solutions. I am passionate about predictive modeling, analytics, and innovation-driven projects, always eager to learn and contribute.
 
 
 ## 🌐 Socials:

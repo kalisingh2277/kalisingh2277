@@ -20,7 +20,7 @@
       <h3 align="center">👋 Hello, I'm Kali</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-        <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+        <a href="mailto:kalisingh2277@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
       </p>
       <p align="center">I am a Computer Science student at VIT-AP with a strong foundation in Python, C, C++, Java, and Solidity. My expertise lies in data science, AI/ML, and web development, with hands-on experience in projects like cryptocurrency prediction, sentiment analysis, and food recipe recommendation. I have actively participated in hackathons, showcasing my problem-solving and analytical skills.</p>
     </td>
@@ -132,9 +132,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" width="100%">
   
-  <p>📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  <p>📫 How to reach me: <a href="mailto:kalisingh2277@gmail.com">kalisingh2277@gmail.com</a></p>
   
-  <p>🌐 Visit my portfolio for more!</p>
+  <p>🌐 Visit my <a href="https://tinyurl.com/KaliSingh">portfolio website</a> for more!</p>
   
   <img src="https://komarev.com/ghpvc/?username=kalisingh2277&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
   

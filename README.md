@@ -22,3 +22,169 @@ I am a Computer Science student at VIT-AP with a strong foundation in Python, C,
 ![](https://github-contributor-stats.vercel.app/api?username=kalisingh2277&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- KALI'S INTERACTIVE GITHUB UNIVERSE -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20to%20Kali's%20Universe&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Welcome Banner" width="100%"/>
+  
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&background=FF62DC00&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Cybersecurity+Researcher;UI%2FUX+Designer;Open+Source+Contributor" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f19f8edc0.gif" width="900"></a>
+</div>
+
+## 🌠 About Me: Interactive Profile
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">👋 Hello, I'm Kali</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/YourLinkedIn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://twitter.com/YourTwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+        <a href="https://www.instagram.com/YourInstagram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+      </p>
+      <p align="center">I'm a passionate developer with a focus on creating innovative solutions that blend technology and creativity. My journey in tech is driven by curiosity and a desire to build tools that make a difference.</p>
+    </td>
+    <td width="50%">
+      <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><h2>🔮 My Skill Universe (Click to Expand)</h2></summary>
+  <div align="center">
+    <h3>💻 Languages</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,go,rust,kotlin,swift,php,dart&theme=dark" alt="Programming Languages" /><br>
+    
+    <h3>🛠️ Tech Stack</h3>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,vue,angular,django,flask,dotnet,spring,laravel,flutter&theme=dark" alt="Frameworks & Libraries" /><br>
+    
+    <h3>🗄️ Data & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,azure,gcp,docker,kubernetes,jenkins,terraform,grafana&theme=dark" alt="Data & DevOps" /><br>
+    
+    <h3>🎨 Design & Tools</h3>
+    <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,blender,threejs,unity,git,github,vscode,vim,bash&theme=dark" alt="Design & Tools" />
+  </div>
+</details>
+
+<!-- GitHub Stats with Custom Styling -->
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=buefy&hide_border=true&border_radius=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=10" width="49%" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&border_radius=10"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=buefy&hide_border=true&border_radius=10"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&border_radius=10" width="49%" />
+  </picture>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&theme=radical&bg_color=141321&hide_border=true&line=fe5186&point=ff9292" width="100%" alt="Contribution Graph" />
+</div>
+
+<!-- Interactive Projects Section with Animations -->
+<div>
+  <h2>🚀 Featured Projects</h2>
+  <div align="center">
+    <a href="https://github.com/yourusername/project1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&border_radius=10" />
+    </a>
+    <a href="https://github.com/yourusername/project2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&border_radius=10" />
+    </a>
+    <a href="https://github.com/yourusername/project3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=radical&hide_border=true&border_radius=10" />
+    </a>
+    <a href="https://github.com/yourusername/project4">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=radical&hide_border=true&border_radius=10" />
+    </a>
+  </div>
+</div>
+
+<!-- Dynamic Contribution Calendar - 3D View -->
+<div align="center">
+  <h2>🗓️ Contribution Calendar</h2>
+  <img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
+  
+  <p align="center"><i>Note: Insert a GitHub Action to generate this snake animation in your actual repository</i></p>
+</div>
+
+<!-- Spotify Now Playing with Integration -->
+<div align="center">
+  <h2>🎵 Vibing To</h2>
+  
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=1)
+  
+  <p align="center"><i>Note: Set up the Spotify integration in your actual repository</i></p>
+</div>
+
+<!-- Interactive Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" width="100%">
+  
+  <p>📫 How to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  
+  <p>🌐 Visit my <a href="https://yourportfolio.com">portfolio website</a> for more!</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+  
+  <p>⭐️ From <a href="https://github.com/yourusername">Kali</a> with ❤️</p>
+</div>
+
+<!-- Easter Egg - Hidden ASCII Art (Visible in raw README) -->
+<!--
+ ██╗  ██╗ █████╗ ██╗     ██╗
+ ██║ ██╔╝██╔══██╗██║     ██║
+ █████╔╝ ███████║██║     ██║
+ ██╔═██╗ ██╔══██║██║     ██║
+ ██║  ██╗██║  ██║███████╗██║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
+-->
+

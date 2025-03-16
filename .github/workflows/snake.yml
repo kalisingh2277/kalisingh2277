@@ -1,1 +1,23 @@
-
+steps:
+  - uses: actions/checkout@v2
+    
+  - name: Generate Snake
+    uses: Platane/snk@v3
+    with:
+      github_user_name: kalisingh2277
+      outputs: |
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        dist/github-contribution-grid-snake.svg?palette=github-light
+  
+  - name: Push to GitHub
+    uses: EndBug/add-and-commit@v9
+    with:
+      branch: output
+      message: 'Generate snake animation'
+      add: 'dist'
+  </pre>
+  </li>
+  <li><b>Manually trigger the workflow</b> once by going to Actions tab > Generate Snake Animation > Run workflow</li>
+  <li><b>Check the output branch</b> called <code>output</code> for your generated snake animation</li>
+  <li>The animation will automatically update daily based on your contributions!</li>
+</ol>

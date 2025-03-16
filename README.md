@@ -110,54 +110,11 @@
   </div>
 </div>
 
-<!-- Dynamic Contribution Calendar - 3D View -->
-<div align="center">
-  <h2>🗓️ Contribution Calendar</h2>
-  <img src="https://github.com/kalisingh2277/kalisingh2277/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
-  
-  <h3>How to set up the Snake Animation:</h3>
-  <p align="left">
-    <ol>
-      <li><b>Create a new repository</b> named exactly <code>kalisingh2277</code> (same as your username)</li>
-      <li><b>Create this workflow file</b> at path: <code>.github/workflows/snake.yml</code> with the following content:
-      <pre>
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - uses: actions/checkout@v2
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: kalisingh2277
-          outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg?palette=github-light
-      
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v9
-        with:
-          branch: output
-          message: 'Generate snake animation'
-          add: 'dist'
-      </pre>
-      </li>
-      <li><b>Manually trigger the workflow</b> once by going to Actions tab > Generate Snake Animation > Run workflow</li>
-      <li><b>Check the output branch</b> called <code>output</code> for your generated snake animation</li>
-      <li>The animation will automatically update daily based on your contributions!</li>
-    </ol>
-  </p>
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <!-- Interactive Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,20,0,6&height=150&section=footer&animation=fadeIn" width="100%">

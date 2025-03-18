@@ -58,6 +58,21 @@
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
   </div>
+  </details>
+
+<!-- Advanced Skills Radar Chart -->
+<div align="center">
+  <h2>🎯 Skills Radar</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css,react,nodejs,fastapi,django,mysql,postgres,git,github,vscode,figma,canva&theme=dark" alt="Skills Radar" />
+  
+  <h3>Expertise Level</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Data%20Science-Advanced-green?style=for-the-badge&logo=python&logoColor=white" alt="Data Science"/>
+    <img src="https://img.shields.io/badge/Web%20Development-Advanced-green?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  </p>
+</div>
 </details>
 
 <!-- GitHub Stats with Custom Styling -->
